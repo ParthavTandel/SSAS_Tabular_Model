@@ -22,5 +22,5 @@ ProductCategoryName =RELATED(DimProductCategory[EnglishProductCategoryName])
 In Fact table, Margin =[SalesAmount]-[TotalProductCost].
 <img width="682" alt="ProductSubCategory" src="https://user-images.githubusercontent.com/118220804/212960152-edda48fe-d851-44c6-8d64-bbe3b4322723.png">
 
-Step 4: Create Measures. 
+Step 4: Create Measures. WORK IN PROGRESS
 
