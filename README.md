@@ -53,6 +53,8 @@ Step 7: Created Partitions for year 2011 to 2014 in Fact table
 
 <img width="427" alt="Partition" src="https://user-images.githubusercontent.com/118220804/218546087-33a9fa43-381e-4b78-b8b2-d0a138ce2def.png">
 
+Build and deployed tabular model on SQL Server Analysis Services (We will use this model for visualization later)
+
 
 
 
